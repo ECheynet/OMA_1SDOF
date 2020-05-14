@@ -1,4 +1,4 @@
-# OMA_1SDOF
+# Damping ratio estimation from ambient vibrations (SDOF)
 
 
 ## Summary
