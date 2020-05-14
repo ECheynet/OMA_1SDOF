@@ -2,7 +2,7 @@
 
 
 ## Summary
-If the free-decay response (FDR) of a SDOF is not directly available, it is possible to use ambient vibrations data yo estimate the modal damping ratio. Here, the Random Decrement Technique (RDT) [1], as well as the Natural Excitation Technique (NExT) [2], are used. First, the response of a SDOF to white noise is simulated in the time domain using [3]. Then the IRF is computed using the RDT or NExT. Finally, and an exponential decay is fitted to the envelop of the IRF to obtain the modal damping ratio.
+If the free-decay response (FDR) of a Single Degree-of-Freedom (SDOF) system is not directly available, it is possible to use ambient vibrations data yo estimate the modal damping ratio. Here, the Random Decrement Technique (RDT) [1], as well as the Natural Excitation Technique (NExT) [2], are used. First, the response of a SDOF to white noise is simulated in the time domain using [3]. Then the IRF is computed using the RDT or NExT. Finally, and an exponential decay is fitted to the envelop of the IRF to obtain the modal damping ratio.
 
 ## Content
 
